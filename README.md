@@ -1,8 +1,8 @@
 # YING-Internship
 ## Overview
-This is a Writeup of experiences and accomplishments during my time at YING.
+This is a writeup of experiences and accomplishments during my time at YING.
 
-During This 9 week Internship I had the pleasure of helping to build up the YING web and mobile application.
+During this **9 week Internship** I had the pleasure of helping to build up the YING web and mobile application.
 
 YING is a platform being built to allow people to skill share with eachother thus empowering individuals, non-profits and corporations to exchange their resources and skills for time based credits.
 <div style="width:100%; height:300px; display:flex; justify-content:center; align:center">
@@ -60,5 +60,5 @@ YING is a platform being built to allow people to skill share with eachother thu
 
 ## New and Practiced Skills
 - Learned to use Ionic
-- Learned to workwith Prisma Back-End
+- Learned to work with Prisma Back-End
 - Worked with GraphQL both Front-End and Back-End
