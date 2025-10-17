@@ -20,7 +20,7 @@ YING is a platform being built to allow people to skill share with eachother thu
 <br><br>
 </center>
 
-### 2. Shareable Link
+### 2. Shareable Link:
 - GIF displaying an added feature where a link is programmatcially generated. This link can be shared with other Users/non-Users to route them to the join-a-group  page. The form auto populates and the User will be bale to join with the press of a button. I added this feature and handled all routing and permissions for Users from 3 User states:
     - Logged in --> routes to join said group
     - Logged out --> routes to join said group after logging in
